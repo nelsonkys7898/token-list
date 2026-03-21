@@ -184623,3 +184623,13 @@
     "patch": 3
   }
 }
+{
+  "chainId": 101,
+  "address": "5mBzafNFRZ3KEKhkkjub5Ng4j5LTYuiUhTMRWerMpump",
+  "symbol": "ROAR",
+  "name": "Lion dance",
+  "decimals": 6,
+  "logoURI": "https://i.imgur.com/cKzDVyq.jpeg",
+  "tags": ["memecoin"]
+}
+]
