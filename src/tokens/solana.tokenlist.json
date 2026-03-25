@@ -184629,7 +184629,11 @@
   "symbol": "ROAR",
   "name": "Lion dance",
   "decimals": 6,
-  "logoURI": "https://i.imgur.com/cKzDVyq.jpeg",
-  "tags": ["memecoin"]
+  "logoURI": "https://raw.githubusercontent.com/nelsonkys7898/token-list/main/logo.png",
+  "tags": ["memecoin"],
+"extensions": {
+    "twitter": "https://x.com/RoarLiondance",
+    "telegram": "https://t.me/liondanceROARofficial"
+  }
 }
 ]
