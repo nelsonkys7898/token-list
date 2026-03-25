@@ -184623,3 +184623,17 @@
     "patch": 3
   }
 }
+{
+  "chainId": 101,
+  "address": "5mBzafNFRZ3KEKhkkjub5Ng4j5LTYuiUhTMRWerMpump",
+  "symbol": "ROAR",
+  "name": "Lion dance",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/nelsonkys7898/token-list/add-lion-dance/logo.png",
+  "tags": ["memecoin"],
+  "extensions": {
+    "twitter": "https://x.com/RoarLiondance",
+    "telegram": "https://t.me/liondanceROARofficial"
+  }
+}
+]
